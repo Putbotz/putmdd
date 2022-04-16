@@ -1,0 +1,1 @@
+worker: npm install pino && npm install ws && npm start
